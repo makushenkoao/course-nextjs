@@ -8,7 +8,7 @@ Course from Udemy: [React + Next.js - с нуля. TypeScript, Hooks, SSR и CSS
 Sections:
 * Introduction
 * Environment setup
-* typescript
+* Typescript
 * Project Start
 * Head and Document Components
 * Figma for developer
